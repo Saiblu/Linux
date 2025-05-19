@@ -1,0 +1,16 @@
+Python (What will be on the exam)
+While loops 
+For loops (Depends of the ranges you choose or Values)
+Classes
+ Example: def __Init__ (Self, x, y)
+		self.x = x
+		self.y = y
+Instantiate (will be on the exam as well)
+classes or arguments inside the parentheses example "__Init__(Self, 1, 2)"
+
+
+
+
+
+
+
